@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Droaimon-Dant ✌️ 👦+💻
 
+
+```JS
+const Doraimon-Dant={
+  pronouns:"He"|"Him",
+  code:[Java, JavaScript, HTML, CSS, PHP, Kotlin, Python, MySQL, SQLite, MongoDB],
+  tools:[Apache Netbeans, JDK, Node, Android Estudio,XAMPP, MongoDB Compass, MySQL WorkBench]
+}
+```
 <!--
 **Doraimon-Dant/Doraimon-Dant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

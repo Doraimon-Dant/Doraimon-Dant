@@ -5,7 +5,7 @@
 const Doraimon-Dant={
   pronouns:"He"|"Him",
   code:[Java, JavaScript, HTML, CSS, PHP, Kotlin, Python, MySQL, SQLite, MongoDB],
-  tools:[Apache Netbeans, JDK, Node, Android Estudio,XAMPP, MongoDB Compass, MySQL WorkBench]
+  tools:[Apache Netbeans, JDK, Node, Android Estudio, XAMPP, MongoDB Compass, MySQL WorkBench]
 }
 ```
 <!--

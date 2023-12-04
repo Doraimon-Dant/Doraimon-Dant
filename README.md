@@ -1,5 +1,9 @@
 ### Hi, I'm Droaimon-Dant ✌️ 👦+💻
 
+
+# Who I am
+<img width="35%" align="right" alt="Github" src="https://drive.google.com/file/d/1WquICNrMY1WtpOZPlUEuGbBFsjAWWpuM/view?usp=drive_link" />
+
 ## About me in code
 ```JS
 const Doraimon-Dant={

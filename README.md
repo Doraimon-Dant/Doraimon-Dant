@@ -2,7 +2,7 @@
 
 
 # Who I am
-<img width="35%" align="right" alt="Github" src="https://drive.google.com/file/d/1WquICNrMY1WtpOZPlUEuGbBFsjAWWpuM/view?usp=drive_link" />
+<img width="35%" align="right" alt="Github" src="https://github.com/Doraimon-Dant/Doraimon-Dant/assets/85690392/53a023d8-fafd-4cc5-bed3-c6edddaeec09" />
 
 ## About me in code
 ```JS

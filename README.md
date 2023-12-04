@@ -6,10 +6,12 @@
 
 ## About me in code
 ```JS
-const Doraimon-Dant={
+const Christopher_Tafolla={
   pronouns:"He"|"Him",
   code:[Java, JavaScript, HTML, CSS, PHP, Kotlin, Python, MySQL, SQLite, MongoDB],
   tools:[Apache Netbeans, JDK, Node, Android Estudio, XAMPP, MongoDB Compass, MySQL WorkBench]
+  soft-skills:[Adaptability, hunger for knowledge, productive, perseverant, a brother more than a companion]
+  hard-skills:[Data structure, develop algorithms, solve problems, BC python, BC JS]
 }
 ```
 <!--

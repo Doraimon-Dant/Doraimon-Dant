@@ -9,9 +9,9 @@
 const Christopher_Tafolla={
   pronouns:"He"|"Him",
   code:[Java, JavaScript, HTML, CSS, PHP, Kotlin, Python, MySQL, SQLite, MongoDB],
-  tools:[Apache Netbeans, JDK, Node, Android Estudio, XAMPP, MongoDB Compass, MySQL WorkBench]
-  softSkills:[Adaptability, Hunger_For_Knowledge, Productive, Perseverant, A_Brother_More_Than_A_Companion]
-  hardSkills:[Data_structure, Develop_Algorithms, Solve_Problems, BC_Python, BC_JS]
+  tools:[Apache Netbeans, JDK, Node, Android Estudio, XAMPP, MongoDB Compass, MySQL WorkBench],
+  soft_Skills:[Adaptability, Hunger_For_Knowledge, Productive, Perseverant, A_Brother_More_Than_A_Companion],
+  hard_Skills:[Data_structure, Develop_Algorithms, Solve_Problems, BC_Python, BC_JS]
 }
 ```
 <!--
